@@ -1,6 +1,7 @@
 # SnakeAi
 
 ##### 文件及结构说明
+```bash
 ├───main
 │   ├───logs
 │   ├───trained_models_cnn
@@ -9,6 +10,7 @@
 │   └───models
 ├───utils
 │   └───scripts
+```
 
 ###### 模型部分 ./main
 ppo_snake_4875000_steps_circle.zip  初始策略：转圈圈模型  
