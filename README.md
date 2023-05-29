@@ -72,3 +72,5 @@ python test_cnn.py
 ```python
 python test_cnn_conseed.py
 ```
+
+参考自：https://github.com/linyiLYi/snake-ai
