@@ -4,6 +4,7 @@
 ```bash
 ├───main
 │   ├───logs
+│   ├───sounds
 │   ├───trained_models_cnn
 │   ├───trained_models_mlp
 │   ├───scripts
